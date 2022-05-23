@@ -1,0 +1,73 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "Hey",
+          "How are you",
+          "Is anyone there?",
+          "Hello",
+          "Good day"
+        ],
+        "responses": [
+          "Hey!",
+          "Hi there, what can I do for you?",
+          "Hi there, how can I help?"
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": ["Bye", "See you later", "Goodbye"],
+        "responses": [
+          "Have a nice day",
+          "Enjoy your visit!",
+          "Bye! Come back again soon."
+        ]
+      },
+      {
+        "tag": "thanks",
+        "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+        "responses": ["Happy to help!", "Any time!", "My pleasure"]
+      },
+      {
+        "tag": "Food",
+        "patterns": [
+          "I am looking for a particular restaurant",
+          "Which restaurant is close by?",
+          "I am looking for a place to eat",
+          "I am hungry"
+        ],
+        "responses": [
+          "What is your budget?",
+          "What type of food are you looking to eat?"
+        ]
+      },
+      {
+        "tag": "products",
+        "patterns": ["I am looking for a barber", 
+                    "Where is closest hair and beauty shop"
+                    ],
+        "responses": [
+          "What kind of hair are you looking for",
+          "What kind of barber?",
+          "Which beauty products are you looking for"
+        ]
+      },
+      {
+        "tag": "social events",
+        "patterns": [
+          "Where can i find a good bar",
+          "Where do people hangout?",
+          "Where do people play sports",
+          "Where can i network?"
+        ],
+        "responses": [
+          "What kind of music would you like to hear?",
+          "What kind of sports are you looking to play?",
+          "Which field of interest would you like to network"
+        ]
+      }
+    ]
+  }
+  
