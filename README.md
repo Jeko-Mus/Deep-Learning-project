@@ -1,2 +1,2 @@
 # Deep Learning project
-### This project aims to build a chatbot to help with finding familiar favourites / countrymen, be it food, hair and beauty products or social activities when travelling or moving to a new city
+### This project aims to build a chatbot to help with finding familiar back home favourites / countrymen, be it food, hair and beauty products or social activities when travelling or moving to a new city
