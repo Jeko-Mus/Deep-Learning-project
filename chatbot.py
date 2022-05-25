@@ -22,8 +22,8 @@ model = NeuralNet(input_size, hidden_size, output_size)
 model.load_state_dict(model_state)
 model.eval()
 
-bot_name = "travel life"
-print("Let's have a chat! (type 'done' to exit this chat)")
+bot_name = "assistant"
+print("Hi there! How can I help you today? (remember to type 'done' when you want to exit this chat)")
 
 while True:
     sentence = input("You: ")
@@ -38,13 +38,12 @@ while True:
 
     output = model(X)
     _, predicted = torch.max(output, dim=1)
-
     tag = tags[predicted.item()]
 
     probs = torch.softmax(output, dim=1)
     prob = probs[0][predicted.item()]
-    print(prob)
-    if prob.item() > 0.75:
+    
+    if prob.item() > 0.80:
         for intent in intents['intents']:
             if tag == intent['tag']:
                 print(f"{bot_name}: {random.choice(intent['responses'])}")
