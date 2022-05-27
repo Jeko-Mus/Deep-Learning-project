@@ -11,7 +11,6 @@
           "Good day"
         ],
         "responses": [
-          "Hey!",
           "Hi there, what can I do for you?",
           "Hi there, how can I help?"
         ]
@@ -36,36 +35,179 @@
           "I am looking for a particular restaurant",
           "Which restaurant is close by?",
           "I am looking for a place to eat",
-          "I am hungry"
+          "I am hungry",
+          "I am looking for a store"
         ],
         "responses": [
-          "What is your budget?",
-          "What type of food are you looking to eat?"
+          "What type of food are you looking for?",
+          "Which cuisine?"
         ]
       },
       {
-        "tag": "products",
-        "patterns": ["I am looking for a barber", 
-                    "Where is closest hair and beauty shop"
-                    ],
-        "responses": [
-          "What kind of hair are you looking for",
-          "What kind of barber?",
-          "Which beauty products are you looking for"
-        ]
-      },
-      {
-        "tag": "social events",
+        "tag": "Hair and Beauty",
         "patterns": [
-          "Where can i find a good bar",
-          "Where do people hangout?",
-          "Where do people play sports",
-          "Where can i network?"
+          "I am looking for hair products",
+          "I would like to find a barber",
+          "I am searching for hair and beauty products",
+          "Is there a good hair salon in berlin"
         ],
         "responses": [
-          "What kind of music would you like to hear?",
-          "What kind of sports are you looking to play?",
-          "Which field of interest would you like to network"
+          "What type of barber/ hairstylist are you looking for?",
+          "From which country?"
+        ]
+      },
+      {
+        "tag": "Hangouts",
+        "patterns": [
+          "I am looking for a good bar",
+          "Where do people from my country network",
+          "Where do people from my country hangout",
+          " Where can I go out and hear music from my country"
+        ],
+        "responses": [
+          "What kind of music do you want to hear?",
+          "Which countrymen would you like to network with?"
+        ]
+      },
+      {
+        "tag": "Italian Food",
+        "patterns": [
+          "I am looking for an italian restaurant",
+          "I am looking for an italian food shop",
+          "Where can I find an italian grocery store",
+          "Where can i buy italian food?"
+        ],
+        "responses": [
+          "Restaurants: Bellucci, Luardi, Ristorante-Arlechinno. Stores: Amore Store, Koriandrum, Fresco Italian Food GmbH"
+        ]
+      },
+      {
+        "tag": "Italian Products",
+        "patterns": [
+          "I am looking for italian hair products",
+          "I am looking for an italian hair salon",
+          "Where can I find an italian barber",
+          "Where can i buy italian beauty products?"
+        ],
+        "responses": [
+          "Barber: Mino's Barbershop, Todi's Barbershop. Hair Salon: Salone39, Salon Giovanni. Italian Products: HomeSweetShop"
+        ]
+      },
+      {
+        "tag": "Italian Hangouts",
+        "patterns": [
+          "Where do Italians hangout?",
+          "Where do Italians network?",
+          "Are there any Italian bars?"
+        ],
+        "responses": [
+          "bars: bar Tolucci, Sagrantino. Networking: Berlinitaliancommunication.com"
+        ]
+      },
+      {
+        "tag": "African Food",
+        "patterns": [
+          "I am looking for an italian restaurant",
+          "I am looking for an italian food shop",
+          "Where can I find an italian grocery store",
+          "Where can i buy italian food?"
+        ],
+        "responses": [
+          "Restaurants: Bellucci, Luardi, Ristorante-Arlechinno. Stores: Amore Store, Koriandrum, Fresco Italian Food GmbH"
+        ]
+      },
+      {
+        "tag": "African Products",
+        "patterns": [
+          "I am looking for hair products",
+          "I am looking for an italian hair salon",
+          "Where can I find an italian barber",
+          "Where can i buy italian beauty products?"
+        ],
+        "responses": [
+          "Barber: Mino's Barbershop, Todi's Barbershop. Hair Salon: Salone39, Salon Giovanni. Italian Products: HomeSweetShop"
+        ]
+      },
+      {
+        "tag": "African Hangouts",
+        "patterns": [
+          "Where do Italians hangout?",
+          "Where do Italians network?",
+          "Are there any Italian bars?",
+          "Where can I go out where they play italian music"
+        ],
+        "responses": [
+          "bars: bar Tolucci, Sagrantino. Networking: Berlinitaliancommunication.com"
+        ]
+      },
+      {
+        "tag": "Hungarian Food",
+        "patterns": [
+          "I am looking for an italian restaurant",
+          "I am looking for an italian food shop",
+          "Where can I find an italian grocery store",
+          "Where can i buy italian food?"
+        ],
+        "responses": [
+          "Restaurants: Bellucci, Luardi, Ristorante-Arlechinno. Stores: Amore Store, Koriandrum, Fresco Italian Food GmbH"
+        ]
+      },
+      {
+        "tag": "Hungarian Products",
+        "patterns": [
+          "I am looking for hair products",
+          "I am looking for an italian hair salon",
+          "Where can I find an italian barber",
+          "Where can i buy italian beauty products?"
+        ],
+        "responses": [
+          "Barber: Mino's Barbershop, Todi's Barbershop. Hair Salon: Salone39, Salon Giovanni. Italian Products: HomeSweetShop"
+        ]
+      },
+      {
+        "tag": "Hungarian Hangouts",
+        "patterns": [
+          "Where do Italians hangout?",
+          "Where do Italians network?",
+          "Are there any Italian bars?"
+        ],
+        "responses": [
+          "bars: bar Tolucci, Sagrantino. Networking: Berlinitaliancommunication.com"
+        ]
+      },
+      {
+        "tag": "Indian Food",
+        "patterns": [
+          "I am looking for an italian restaurant",
+          "I am looking for an italian food shop",
+          "Where can I find an italian grocery store",
+          "Where can i buy italian food?"
+        ],
+        "responses": [
+          "Restaurants: Bellucci, Luardi, Ristorante-Arlechinno. Stores: Amore Store, Koriandrum, Fresco Italian Food GmbH"
+        ]
+      },
+      {
+        "tag": "Indian Products",
+        "patterns": [
+          "I am looking for hair products",
+          "I am looking for an italian hair salon",
+          "Where can I find an italian barber",
+          "Where can i buy italian beauty products?"
+        ],
+        "responses": [
+          "Barber: Mino's Barbershop, Todi's Barbershop. Hair Salon: Salone39, Salon Giovanni. Italian Products: HomeSweetShop"
+        ]
+      },
+      {
+        "tag": "Indian Hangouts",
+        "patterns": [
+          "Where do Italians hangout?",
+          "Where do Italians network?",
+          "Are there any Italian bars?"
+        ],
+        "responses": [
+          "bars: bar Tolucci, Sagrantino. Networking: Berlinitaliancommunication.com"
         ]
       }
     ]
