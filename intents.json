@@ -143,9 +143,9 @@
       {
         "tag": "Hungarian Food",
         "patterns": [
-          "I am looking for an Hungarian restaurant",
-          "I am looking for an Hungarian food shop",
-          "Where can I find an Hungarian grocery store",
+          "I am looking for a Hungarian restaurant",
+          "I am looking for a Hungarian food shop",
+          "Where can I find a Hungarian grocery store",
           "Where can i buy food from Hungary?"
         ],
         "responses": [
