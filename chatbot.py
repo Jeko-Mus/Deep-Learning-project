@@ -22,7 +22,7 @@ model = NeuralNet(input_size, hidden_size, output_size)
 model.load_state_dict(model_state)
 model.eval()
 
-bot_name = "assistant"
+bot_name = "bot"
 print("Hi there! How can I help you today? (remember to type 'done' when you want to exit this chat)")
 
 while True:

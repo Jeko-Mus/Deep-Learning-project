@@ -44,131 +44,105 @@
         ]
       },
       {
-        "tag": "Hair and Beauty",
-        "patterns": [
-          "I am looking for hair products",
-          "I would like to find a barber",
-          "I am searching for hair and beauty products",
-          "Is there a good hair salon in berlin"
-        ],
-        "responses": [
-          "What type of barber/ hairstylist are you looking for?",
-          "From which country?"
-        ]
-      },
-      {
-        "tag": "Hangouts",
-        "patterns": [
-          "I am looking for a good bar",
-          "Where do people from my country network",
-          "Where do people from my country hangout",
-          " Where can I go out and hear music from my country"
-        ],
-        "responses": [
-          "What kind of music do you want to hear?",
-          "Which countrymen would you like to network with?"
-        ]
-      },
-      {
         "tag": "Italian Food",
         "patterns": [
-          "I am looking for an italian restaurant",
-          "I am looking for an italian food shop",
-          "Where can I find an italian grocery store",
+          "italian restaurant",
+          "italian food shop",
+          "italian grocery store",
           "Where can i buy food from Italy?"
         ],
         "responses": [
-          "Sure! have a look at Restaurants: Bellucci, Luardi, Ristorante-Arlechinno. Grocery Stores: Amore Store, Koriandrum, Fresco Italian Food GmbH"
+          "Restaurants: Bellucci, Luardi, Ristorante-Arlechinno. Grocery Stores: Amore Store, Koriandrum, Fresco Italian Food GmbH"
         ]
       },
       {
         "tag": "Italian hair and beauty Products",
         "patterns": [
-          "I am looking for italian hair products",
-          "I am looking for an italian hair salon",
-          "Where can I find an italian barber",
-          "Where can i buy italian beauty products?"
+          "italian hair products",
+          "italian hair salon",
+          "italian barber",
+          "italian beauty products?"
         ],
         "responses": [
-          "Sure! have a look at Barber: Mino's Barbershop, Todi's Barbershop. Hair Salon: Salone39, Salon Giovanni. Italian Products: HomeSweetShop"
+          "Barbers: Mino's Barbershop, Todi's Barbershop. Hair Salon: Salone39, Salon Giovanni. Italian Products: HomeSweetShop"
         ]
       },
       {
         "tag": "Italian Hangouts",
         "patterns": [
-          "Where do Italians hangout?",
-          "Where do Italians network?",
-          "Are there any Italian bars?"
+          "Italians hangout?",
+          "Italians network?",
+          "Italian bars?"
         ],
         "responses": [
-          "Sure! have a look at Bars: bar Tolucci, Sagrantino. Networking: Berlinitaliancommunication.com"
+          "Bars: bar Tolucci, Sagrantino. Networking: Berlinitaliancommunication.com"
         ]
       },
       {
         "tag": "African Food",
         "patterns": [
-          "I am looking for an african restaurant",
-          "I am looking for an african food shop",
-          "Where can I find an african grocery store",
+          "african restaurant",
+          "african food shop",
+          "african grocery store",
           "Where can i buy food from Africa?"
         ],
         "responses": [
-          "Sure! have a look at Restaurants: Tembo restaurant, Massai, Ataya Cafe. Grocery Stores: Max afroshop, alpha and Omega, Outer Africa"
+          "Restaurants: Tembo restaurant, Massai, Ataya Cafe. Grocery Stores: Max afroshop, alpha and Omega, Outer Africa"
         ]
       },
       {
         "tag": "African hair and beauty Products",
         "patterns": [
-          "I am looking for african hair products",
-          "I am looking for an african hair salon",
-          "Where can I find an african barber",
+          "african hair products",
+          "african hair salon",
+          "african barber",
           "Where can i buy african beauty products?"
         ],
         "responses": [
-          "Sure! have a look at Barber: Ebony and Ivory, Next Level Barbershop. Hair Salon: AfroLydia, Evelines. Products: AfroRoots beauty shop, Cocoon hair and beauty "
+          "Barber: Ebony and Ivory, Next Level Barbershop. Hair Salon: AfroLydia, Evelines. Products: AfroRoots beauty shop, Cocoon hair and beauty "
         ]
       },
       {
         "tag": "African Hangouts",
         "patterns": [
-          "Where do africans hangout?",
-          "Where do africans network?",
-          "Are there any africans bars?",
+          "africans hangout?",
+          "africans network?",
+          "africans bars?",
           "Where can I go out where they play african music"
         ],
         "responses": [
-          "Sure! have a look at bars: Yaam, Makanene, OneAfrica Lounge. Networking: africaberlin.network"
+          "bars: Yaam, Makanene, OneAfrica Lounge. Networking: africaberlin.network"
         ]
       },
       {
         "tag": "Hungarian Food",
         "patterns": [
-          "I am looking for a Hungarian restaurant",
-          "I am looking for a Hungarian food shop",
-          "Where can I find a Hungarian grocery store",
+          "Hungarian restaurant",
+          "Hungarian food shop",
+          "Hungarian grocery store",
           "Where can i buy food from Hungary?"
         ],
         "responses": [
-          "Sure! have a look at Restaurants: Ungarische Gaststätte, Borsó-Ungarische Delikatessen"
+          "Ungarische Gaststätte, Borsó-Ungarische Delikatessen"
         ]
       },
       {
         "tag": "Hungarian hair and beauty products",
         "patterns": [
-          "I am looking for a Hungarian hair salon",
-          "Where can I find a hungarian barber",
-          "Where can i buy Hungarian products?"
+          "Hungarian hair salon",
+          "hungarian barber",
+          "Hungarian products?"
         ],
         "responses": [
-          "Barber and hairsalons: None available, please help us add to our database if you find some!"
+          "Barber and hair salons: None available, please help us add to our database if you find some!"
         ]
       },
       {
         "tag": "Hungarian Hangouts",
         "patterns": [
-          "Where do Hungarians hangout?",
-          "Where do Hungarians network?",
-          "Are there any Hungarian bars?"
+          "Hungarians hangout?",
+          "Hungarians network?",
+          "Hungarian bars?"
         ],
         "responses": [
           "hangouts: Ungarische Gaststätte Networking: None available, please help us add to our database if you find one!"
@@ -178,12 +152,12 @@
         "tag": "Indian Food",
         "patterns": [
           "Indian restaurant",
-          "Indian food shop",
+          "Indian food",
           "Indian grocery store",
           "Where can i buy food from India?"
         ],
         "responses": [
-          "Sure! Why dont you try out Restaurants: Gandhi, Shankara, Mehek. Grocery Stores: Indian Store Berlin, Spice Village, Asia Super Shop"
+          "Restaurants: Gandhi, Shankara, Mehek. Grocery Stores: Indian Store Berlin, Spice Village, Asia Super Shop"
         ]
       },
       {
@@ -195,7 +169,7 @@
           "indian products?"
         ],
         "responses": [
-          "Sure! Why dont you try out Hair Salon: Art of Hair by Sherina, Nesheva Hair & Beauty. Barbershop: None available, please help us add to our database if you find one!"
+          "Hair Salons: Art of Hair by Sherina, Nesheva Hair & Beauty. Barbershop: None available, please help us add to our database if you find one!"
         ]
       },
       {
@@ -206,7 +180,7 @@
           "Indian bars?"
         ],
         "responses": [
-          "Sure! have a look at bars: Ram Indisches Cafe & Cocktail Bar, Delhi 6 Restaurant. Networking: GINSEP, expath indian group on Meetup.com"
+          "Bars: Ram Indisches Cafe & Cocktail Bar, Delhi 6 Restaurant. Networking: GINSEP, expath indian group on Meetup.com"
         ]
       }
     ]
