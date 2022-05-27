@@ -78,7 +78,7 @@
           "Where can i buy food from Italy?"
         ],
         "responses": [
-          "Restaurants: Bellucci, Luardi, Ristorante-Arlechinno. Grocery Stores: Amore Store, Koriandrum, Fresco Italian Food GmbH"
+          "Sure! have a look at Restaurants: Bellucci, Luardi, Ristorante-Arlechinno. Grocery Stores: Amore Store, Koriandrum, Fresco Italian Food GmbH"
         ]
       },
       {
@@ -90,7 +90,7 @@
           "Where can i buy italian beauty products?"
         ],
         "responses": [
-          "Barber: Mino's Barbershop, Todi's Barbershop. Hair Salon: Salone39, Salon Giovanni. Italian Products: HomeSweetShop"
+          "Sure! have a look at Barber: Mino's Barbershop, Todi's Barbershop. Hair Salon: Salone39, Salon Giovanni. Italian Products: HomeSweetShop"
         ]
       },
       {
@@ -101,7 +101,7 @@
           "Are there any Italian bars?"
         ],
         "responses": [
-          "bars: bar Tolucci, Sagrantino. Networking: Berlinitaliancommunication.com"
+          "Sure! have a look at Bars: bar Tolucci, Sagrantino. Networking: Berlinitaliancommunication.com"
         ]
       },
       {
@@ -113,7 +113,7 @@
           "Where can i buy food from Africa?"
         ],
         "responses": [
-          "Restaurants: Tembo restaurant, Massai, Ataya Cafe. Grocery Stores: Max afroshop, alpha and Omega, Outer Africa"
+          "Sure! have a look at Restaurants: Tembo restaurant, Massai, Ataya Cafe. Grocery Stores: Max afroshop, alpha and Omega, Outer Africa"
         ]
       },
       {
@@ -125,7 +125,7 @@
           "Where can i buy african beauty products?"
         ],
         "responses": [
-          "Barber: Ebony and Ivory, Next Level Barbershop. Hair Salon: AfroLydia, Evelines. Products: AfroRoots beauty shop, Cocoon hair and beauty "
+          "Sure! have a look at Barber: Ebony and Ivory, Next Level Barbershop. Hair Salon: AfroLydia, Evelines. Products: AfroRoots beauty shop, Cocoon hair and beauty "
         ]
       },
       {
@@ -137,7 +137,7 @@
           "Where can I go out where they play african music"
         ],
         "responses": [
-          "bars: Yaam, Makanene, OneAfrica Lounge. Networking: africaberlin.network"
+          "Sure! have a look at bars: Yaam, Makanene, OneAfrica Lounge. Networking: africaberlin.network"
         ]
       },
       {
@@ -149,7 +149,7 @@
           "Where can i buy food from Hungary?"
         ],
         "responses": [
-          "Restaurants: Ungarische Gaststätte, Borsó-Ungarische Delikatessen"
+          "Sure! have a look at Restaurants: Ungarische Gaststätte, Borsó-Ungarische Delikatessen"
         ]
       },
       {
@@ -177,36 +177,36 @@
       {
         "tag": "Indian Food",
         "patterns": [
-          "I am looking for an Indian restaurant",
-          "I am looking for an Indian food shop",
-          "Where can I find an Indian grocery store",
+          "Indian restaurant",
+          "Indian food shop",
+          "Indian grocery store",
           "Where can i buy food from India?"
         ],
         "responses": [
-          "Restaurants: Gandhi, Shankara, Mehek. Grocery Stores: Indian Store Berlin, Spice Village, Asia Super Shop"
+          "Sure! Why dont you try out Restaurants: Gandhi, Shankara, Mehek. Grocery Stores: Indian Store Berlin, Spice Village, Asia Super Shop"
         ]
       },
       {
         "tag": "Indian hair and beauty products",
         "patterns": [
           "I am looking for indian hair products",
-          "I am looking for an indian hair salon",
-          "Where can I find an indian barber",
-          "Where can i buy indian products?"
+          "Indian hair salon",
+          "indian barber",
+          "indian products?"
         ],
         "responses": [
-          "Hair Salon: Art of Hair by Sherina, Nesheva Hair & Beauty. Barbershop: None available, please help us add to our database if you find one!"
+          "Sure! Why dont you try out Hair Salon: Art of Hair by Sherina, Nesheva Hair & Beauty. Barbershop: None available, please help us add to our database if you find one!"
         ]
       },
       {
         "tag": "Indian Hangouts",
         "patterns": [
-          "Where do Indians hangout?",
-          "Where do Indians network?",
-          "Are there any Indian bars?"
+          "Indians hangout?",
+          "Indians network?",
+          "Indian bars?"
         ],
         "responses": [
-          "bars: Ram Indisches Cafe & Cocktail Bar, Delhi 6 Restaurant. Networking: GINSEP, expath indian group on Meetup.com"
+          "Sure! have a look at bars: Ram Indisches Cafe & Cocktail Bar, Delhi 6 Restaurant. Networking: GINSEP, expath indian group on Meetup.com"
         ]
       }
     ]

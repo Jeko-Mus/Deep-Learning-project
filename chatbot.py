@@ -48,5 +48,5 @@ while True:
             if tag == intent['tag']:
                 print(f"{bot_name}: {random.choice(intent['responses'])}")
     else:
-        print(f"{bot_name}: I do not understand. Please use more specific wording")
+        print(f"{bot_name}: Im sorry, but I do not understand. Please use more specific wording")
 
