@@ -6,8 +6,7 @@ from PIL import Image
 
 st.markdown('# Familyiar App')
 st.write(''' This project aims to build a chatbot to help with finding familiar back home favourites, 
-            be it food, hair and beauty products or social activities when travelling or moving to a new city.
-            Todays presentation will just focus on Berlin''')
+            be it food, hair and beauty products or social activities when travelling or moving to a new city.''')
 
 st.markdown('#### Reason behind the need for this App')
 st.markdown('###### Many people move to new countries and cities across the world everyday')
@@ -34,7 +33,6 @@ st.markdown(favour)
 st.markdown('###### Based on your answers, we would reccommend you tryout....')
 
 
-st.markdown('### This section will look at the chatbot created')
 st.markdown('#### Chatbot to be used to assist on the website')
 
 

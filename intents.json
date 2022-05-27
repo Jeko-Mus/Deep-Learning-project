@@ -75,14 +75,14 @@
           "I am looking for an italian restaurant",
           "I am looking for an italian food shop",
           "Where can I find an italian grocery store",
-          "Where can i buy italian food?"
+          "Where can i buy food from Italy?"
         ],
         "responses": [
-          "Restaurants: Bellucci, Luardi, Ristorante-Arlechinno. Stores: Amore Store, Koriandrum, Fresco Italian Food GmbH"
+          "Restaurants: Bellucci, Luardi, Ristorante-Arlechinno. Grocery Stores: Amore Store, Koriandrum, Fresco Italian Food GmbH"
         ]
       },
       {
-        "tag": "Italian Products",
+        "tag": "Italian hair and beauty Products",
         "patterns": [
           "I am looking for italian hair products",
           "I am looking for an italian hair salon",
@@ -107,107 +107,106 @@
       {
         "tag": "African Food",
         "patterns": [
-          "I am looking for an italian restaurant",
-          "I am looking for an italian food shop",
-          "Where can I find an italian grocery store",
-          "Where can i buy italian food?"
+          "I am looking for an african restaurant",
+          "I am looking for an african food shop",
+          "Where can I find an african grocery store",
+          "Where can i buy food from Africa?"
         ],
         "responses": [
-          "Restaurants: Bellucci, Luardi, Ristorante-Arlechinno. Stores: Amore Store, Koriandrum, Fresco Italian Food GmbH"
+          "Restaurants: Tembo restaurant, Massai, Ataya Cafe. Grocery Stores: Max afroshop, alpha and Omega, Outer Africa"
         ]
       },
       {
-        "tag": "African Products",
+        "tag": "African hair and beauty Products",
         "patterns": [
-          "I am looking for hair products",
-          "I am looking for an italian hair salon",
-          "Where can I find an italian barber",
-          "Where can i buy italian beauty products?"
+          "I am looking for african hair products",
+          "I am looking for an african hair salon",
+          "Where can I find an african barber",
+          "Where can i buy african beauty products?"
         ],
         "responses": [
-          "Barber: Mino's Barbershop, Todi's Barbershop. Hair Salon: Salone39, Salon Giovanni. Italian Products: HomeSweetShop"
+          "Barber: Ebony and Ivory, Next Level Barbershop. Hair Salon: AfroLydia, Evelines. Products: AfroRoots beauty shop, Cocoon hair and beauty "
         ]
       },
       {
         "tag": "African Hangouts",
         "patterns": [
-          "Where do Italians hangout?",
-          "Where do Italians network?",
-          "Are there any Italian bars?",
-          "Where can I go out where they play italian music"
+          "Where do africans hangout?",
+          "Where do africans network?",
+          "Are there any africans bars?",
+          "Where can I go out where they play african music"
         ],
         "responses": [
-          "bars: bar Tolucci, Sagrantino. Networking: Berlinitaliancommunication.com"
+          "bars: Yaam, Makanene, OneAfrica Lounge. Networking: africaberlin.network"
         ]
       },
       {
         "tag": "Hungarian Food",
         "patterns": [
-          "I am looking for an italian restaurant",
-          "I am looking for an italian food shop",
-          "Where can I find an italian grocery store",
-          "Where can i buy italian food?"
+          "I am looking for an Hungarian restaurant",
+          "I am looking for an Hungarian food shop",
+          "Where can I find an Hungarian grocery store",
+          "Where can i buy food from Hungary?"
         ],
         "responses": [
-          "Restaurants: Bellucci, Luardi, Ristorante-Arlechinno. Stores: Amore Store, Koriandrum, Fresco Italian Food GmbH"
+          "Restaurants: Ungarische Gaststätte, Borsó-Ungarische Delikatessen"
         ]
       },
       {
-        "tag": "Hungarian Products",
+        "tag": "Hungarian hair and beauty products",
         "patterns": [
-          "I am looking for hair products",
-          "I am looking for an italian hair salon",
-          "Where can I find an italian barber",
-          "Where can i buy italian beauty products?"
+          "I am looking for a Hungarian hair salon",
+          "Where can I find a hungarian barber",
+          "Where can i buy Hungarian products?"
         ],
         "responses": [
-          "Barber: Mino's Barbershop, Todi's Barbershop. Hair Salon: Salone39, Salon Giovanni. Italian Products: HomeSweetShop"
+          "Barber and hairsalons: None available, please help us add to our database if you find some!"
         ]
       },
       {
         "tag": "Hungarian Hangouts",
         "patterns": [
-          "Where do Italians hangout?",
-          "Where do Italians network?",
-          "Are there any Italian bars?"
+          "Where do Hungarians hangout?",
+          "Where do Hungarians network?",
+          "Are there any Hungarian bars?"
         ],
         "responses": [
-          "bars: bar Tolucci, Sagrantino. Networking: Berlinitaliancommunication.com"
+          "hangouts: Ungarische Gaststätte Networking: None available, please help us add to our database if you find one!"
         ]
       },
       {
         "tag": "Indian Food",
         "patterns": [
-          "I am looking for an italian restaurant",
-          "I am looking for an italian food shop",
-          "Where can I find an italian grocery store",
-          "Where can i buy italian food?"
+          "I am looking for an Indian restaurant",
+          "I am looking for an Indian food shop",
+          "Where can I find an Indian grocery store",
+          "Where can i buy food from India?"
         ],
         "responses": [
-          "Restaurants: Bellucci, Luardi, Ristorante-Arlechinno. Stores: Amore Store, Koriandrum, Fresco Italian Food GmbH"
+          "Restaurants: Gandhi, Shankara, Mehek. Grocery Stores: Indian Store Berlin, Spice Village, Asia Super Shop"
         ]
       },
       {
-        "tag": "Indian Products",
+        "tag": "Indian hair and beauty products",
         "patterns": [
-          "I am looking for hair products",
-          "I am looking for an italian hair salon",
-          "Where can I find an italian barber",
-          "Where can i buy italian beauty products?"
+          "I am looking for indian hair products",
+          "I am looking for an indian hair salon",
+          "Where can I find an indian barber",
+          "Where can i buy indian products?"
         ],
         "responses": [
-          "Barber: Mino's Barbershop, Todi's Barbershop. Hair Salon: Salone39, Salon Giovanni. Italian Products: HomeSweetShop"
+          "Hair Salon: Art of Hair by Sherina, Nesheva Hair & Beauty. Barbershop: None available, please help us add to our database if you find one!"
         ]
       },
       {
         "tag": "Indian Hangouts",
         "patterns": [
-          "Where do Italians hangout?",
-          "Where do Italians network?",
-          "Are there any Italian bars?"
+          "Where do Indians hangout?",
+          "Where do Indians network?",
+          "Are there any Indian bars?"
         ],
         "responses": [
-          "bars: bar Tolucci, Sagrantino. Networking: Berlinitaliancommunication.com"
+          "bars: Ram Indisches Cafe & Cocktail Bar, Delhi 6 Restaurant. Networking: GINSEP, expath indian group on Meetup.com"
         ]
       }
     ]
